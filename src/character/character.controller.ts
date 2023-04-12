@@ -14,9 +14,4 @@ export class CharacterController {
   getCharacter(@Param() params): any {
     return this.CharacterService.getCharacter(params.id);
   }
-
-  @Get('/avatar/:id')
-  getAvatar(@Param() params): any {
-    return this.CharacterService.getAvatar(params.id);
-  }
 }

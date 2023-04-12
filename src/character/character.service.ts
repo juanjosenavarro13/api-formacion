@@ -10,8 +10,4 @@ export class CharacterService {
   getCharacter(id: number): any {
     return characterData.find((character) => character.id === Number(id));
   }
-
-  getAvatar(id: number): any {
-    return 'hola';
-  }
 }
