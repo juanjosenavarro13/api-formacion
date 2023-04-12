@@ -1,0 +1,1992 @@
+[
+  {
+    "id": 1,
+    "name": "Earth (C-137)",
+    "type": "Planet",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "/api/character/38",
+      "/api/character/45",
+      "/api/character/71",
+      "/api/character/82",
+      "/api/character/83",
+      "/api/character/92",
+      "/api/character/112",
+      "/api/character/114",
+      "/api/character/116",
+      "/api/character/117",
+      "/api/character/120",
+      "/api/character/127",
+      "/api/character/155",
+      "/api/character/169",
+      "/api/character/175",
+      "/api/character/179",
+      "/api/character/186",
+      "/api/character/201",
+      "/api/character/216",
+      "/api/character/239",
+      "/api/character/271",
+      "/api/character/302",
+      "/api/character/303",
+      "/api/character/338",
+      "/api/character/343",
+      "/api/character/356",
+      "/api/character/394"
+    ],
+    "url": "/api/location/1",
+    "created": "2017-11-10T12:42:04.162Z"
+  },
+  {
+    "id": 2,
+    "name": "Abadango",
+    "type": "Cluster",
+    "dimension": "unknown",
+    "residents": ["/api/character/6"],
+    "url": "/api/location/2",
+    "created": "2017-11-10T13:06:38.182Z"
+  },
+  {
+    "id": 3,
+    "name": "Citadel of Ricks",
+    "type": "Space station",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/8",
+      "/api/character/14",
+      "/api/character/15",
+      "/api/character/18",
+      "/api/character/21",
+      "/api/character/22",
+      "/api/character/27",
+      "/api/character/42",
+      "/api/character/43",
+      "/api/character/44",
+      "/api/character/48",
+      "/api/character/53",
+      "/api/character/56",
+      "/api/character/61",
+      "/api/character/69",
+      "/api/character/72",
+      "/api/character/73",
+      "/api/character/74",
+      "/api/character/77",
+      "/api/character/78",
+      "/api/character/85",
+      "/api/character/86",
+      "/api/character/95",
+      "/api/character/118",
+      "/api/character/119",
+      "/api/character/123",
+      "/api/character/135",
+      "/api/character/143",
+      "/api/character/152",
+      "/api/character/164",
+      "/api/character/165",
+      "/api/character/187",
+      "/api/character/200",
+      "/api/character/206",
+      "/api/character/209",
+      "/api/character/220",
+      "/api/character/229",
+      "/api/character/231",
+      "/api/character/235",
+      "/api/character/267",
+      "/api/character/278",
+      "/api/character/281",
+      "/api/character/283",
+      "/api/character/284",
+      "/api/character/285",
+      "/api/character/286",
+      "/api/character/287",
+      "/api/character/288",
+      "/api/character/289",
+      "/api/character/291",
+      "/api/character/295",
+      "/api/character/298",
+      "/api/character/299",
+      "/api/character/322",
+      "/api/character/325",
+      "/api/character/328",
+      "/api/character/330",
+      "/api/character/345",
+      "/api/character/359",
+      "/api/character/366",
+      "/api/character/378",
+      "/api/character/385",
+      "/api/character/392",
+      "/api/character/461",
+      "/api/character/462",
+      "/api/character/463",
+      "/api/character/464",
+      "/api/character/465",
+      "/api/character/466",
+      "/api/character/472",
+      "/api/character/473",
+      "/api/character/474",
+      "/api/character/475",
+      "/api/character/476",
+      "/api/character/477",
+      "/api/character/478",
+      "/api/character/479",
+      "/api/character/480",
+      "/api/character/481",
+      "/api/character/482",
+      "/api/character/483",
+      "/api/character/484",
+      "/api/character/485",
+      "/api/character/486",
+      "/api/character/487",
+      "/api/character/488",
+      "/api/character/489",
+      "/api/character/2",
+      "/api/character/1",
+      "/api/character/801",
+      "/api/character/802",
+      "/api/character/803",
+      "/api/character/804",
+      "/api/character/805",
+      "/api/character/806",
+      "/api/character/810",
+      "/api/character/811",
+      "/api/character/812",
+      "/api/character/819",
+      "/api/character/820",
+      "/api/character/818"
+    ],
+    "url": "/api/location/3",
+    "created": "2017-11-10T13:08:13.191Z"
+  },
+  {
+    "id": 4,
+    "name": "Worldender's lair",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/10",
+      "/api/character/81",
+      "/api/character/208",
+      "/api/character/226",
+      "/api/character/340",
+      "/api/character/362",
+      "/api/character/375",
+      "/api/character/382",
+      "/api/character/395"
+    ],
+    "url": "/api/location/4",
+    "created": "2017-11-10T13:08:20.569Z"
+  },
+  {
+    "id": 5,
+    "name": "Anatomy Park",
+    "type": "Microverse",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "/api/character/12",
+      "/api/character/17",
+      "/api/character/96",
+      "/api/character/97",
+      "/api/character/98",
+      "/api/character/99",
+      "/api/character/100",
+      "/api/character/101",
+      "/api/character/108",
+      "/api/character/268",
+      "/api/character/300"
+    ],
+    "url": "/api/location/5",
+    "created": "2017-11-10T13:08:46.060Z"
+  },
+  {
+    "id": 6,
+    "name": "Interdimensional Cable",
+    "type": "TV",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/20",
+      "/api/character/28",
+      "/api/character/29",
+      "/api/character/34",
+      "/api/character/49",
+      "/api/character/51",
+      "/api/character/54",
+      "/api/character/121",
+      "/api/character/126",
+      "/api/character/129",
+      "/api/character/134",
+      "/api/character/136",
+      "/api/character/145",
+      "/api/character/157",
+      "/api/character/173",
+      "/api/character/184",
+      "/api/character/205",
+      "/api/character/207",
+      "/api/character/214",
+      "/api/character/222",
+      "/api/character/223",
+      "/api/character/224",
+      "/api/character/225",
+      "/api/character/250",
+      "/api/character/254",
+      "/api/character/260",
+      "/api/character/264",
+      "/api/character/266",
+      "/api/character/275",
+      "/api/character/277",
+      "/api/character/279",
+      "/api/character/312",
+      "/api/character/314",
+      "/api/character/315",
+      "/api/character/316",
+      "/api/character/317",
+      "/api/character/318",
+      "/api/character/334",
+      "/api/character/351",
+      "/api/character/358",
+      "/api/character/367",
+      "/api/character/370",
+      "/api/character/373",
+      "/api/character/403",
+      "/api/character/406",
+      "/api/character/407",
+      "/api/character/408",
+      "/api/character/409",
+      "/api/character/410",
+      "/api/character/411",
+      "/api/character/412",
+      "/api/character/413",
+      "/api/character/414",
+      "/api/character/415",
+      "/api/character/416",
+      "/api/character/417",
+      "/api/character/418",
+      "/api/character/457",
+      "/api/character/458",
+      "/api/character/459",
+      "/api/character/709",
+      "/api/character/711"
+    ],
+    "url": "/api/location/6",
+    "created": "2017-11-10T13:09:09.102Z"
+  },
+  {
+    "id": 7,
+    "name": "Immortality Field Resort",
+    "type": "Resort",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/23",
+      "/api/character/204",
+      "/api/character/320"
+    ],
+    "url": "/api/location/7",
+    "created": "2017-11-10T13:09:17.136Z"
+  },
+  {
+    "id": 8,
+    "name": "Post-Apocalyptic Earth",
+    "type": "Planet",
+    "dimension": "Post-Apocalyptic Dimension",
+    "residents": [
+      "/api/character/25",
+      "/api/character/52",
+      "/api/character/68",
+      "/api/character/110",
+      "/api/character/111",
+      "/api/character/140",
+      "/api/character/156",
+      "/api/character/228",
+      "/api/character/323",
+      "/api/character/342"
+    ],
+    "url": "/api/location/8",
+    "created": "2017-11-10T13:09:22.551Z"
+  },
+  {
+    "id": 9,
+    "name": "Purge Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/26",
+      "/api/character/139",
+      "/api/character/202",
+      "/api/character/273"
+    ],
+    "url": "/api/location/9",
+    "created": "2017-11-10T13:09:29.566Z"
+  },
+  {
+    "id": 10,
+    "name": "Venzenulon 7",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["/api/character/33"],
+    "url": "/api/location/10",
+    "created": "2017-11-18T11:21:51.643Z"
+  },
+  {
+    "id": 11,
+    "name": "Bepis 9",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["/api/character/35"],
+    "url": "/api/location/11",
+    "created": "2017-11-18T11:26:03.325Z"
+  },
+  {
+    "id": 12,
+    "name": "Cronenberg Earth",
+    "type": "Planet",
+    "dimension": "Cronenberg Dimension",
+    "residents": [],
+    "url": "/api/location/12",
+    "created": "2017-11-18T11:29:27.857Z"
+  },
+  {
+    "id": 13,
+    "name": "Nuptia 4",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/40",
+      "/api/character/55",
+      "/api/character/131",
+      "/api/character/132",
+      "/api/character/146",
+      "/api/character/148",
+      "/api/character/163",
+      "/api/character/178",
+      "/api/character/310",
+      "/api/character/386",
+      "/api/character/387"
+    ],
+    "url": "/api/location/13",
+    "created": "2017-11-18T11:30:29.780Z"
+  },
+  {
+    "id": 14,
+    "name": "Giant's Town",
+    "type": "Fantasy town",
+    "dimension": "Fantasy Dimension",
+    "residents": [
+      "/api/character/89",
+      "/api/character/399",
+      "/api/character/400"
+    ],
+    "url": "/api/location/14",
+    "created": "2017-11-18T11:31:15.248Z"
+  },
+  {
+    "id": 15,
+    "name": "Bird World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [],
+    "url": "/api/location/15",
+    "created": "2017-11-18T11:32:26.752Z"
+  },
+  {
+    "id": 16,
+    "name": "St. Gloopy Noops Hospital",
+    "type": "Space station",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/105",
+      "/api/character/263",
+      "/api/character/321",
+      "/api/character/383",
+      "/api/character/384",
+      "/api/character/454",
+      "/api/character/455",
+      "/api/character/456",
+      "/api/character/460"
+    ],
+    "url": "/api/location/16",
+    "created": "2017-11-18T11:43:20.075Z"
+  },
+  {
+    "id": 17,
+    "name": "Earth (5-126)",
+    "type": "Planet",
+    "dimension": "Dimension 5-126",
+    "residents": [],
+    "url": "/api/location/17",
+    "created": "2017-11-18T11:41:08.486Z"
+  },
+  {
+    "id": 18,
+    "name": "Mr. Goldenfold's dream",
+    "type": "Dream",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "/api/character/63",
+      "/api/character/80",
+      "/api/character/221",
+      "/api/character/246",
+      "/api/character/304",
+      "/api/character/305",
+      "/api/character/306",
+      "/api/character/396"
+    ],
+    "url": "/api/location/18",
+    "created": "2017-11-18T11:46:22.933Z"
+  },
+  {
+    "id": 19,
+    "name": "Gromflom Prime",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/19",
+    "created": "2017-11-18T11:39:52.165Z"
+  },
+  {
+    "id": 20,
+    "name": "Earth (Replacement Dimension)",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/3",
+      "/api/character/4",
+      "/api/character/5",
+      "/api/character/9",
+      "/api/character/11",
+      "/api/character/13",
+      "/api/character/16",
+      "/api/character/31",
+      "/api/character/32",
+      "/api/character/50",
+      "/api/character/58",
+      "/api/character/59",
+      "/api/character/64",
+      "/api/character/66",
+      "/api/character/76",
+      "/api/character/88",
+      "/api/character/103",
+      "/api/character/107",
+      "/api/character/109",
+      "/api/character/113",
+      "/api/character/115",
+      "/api/character/124",
+      "/api/character/128",
+      "/api/character/137",
+      "/api/character/138",
+      "/api/character/141",
+      "/api/character/147",
+      "/api/character/149",
+      "/api/character/151",
+      "/api/character/154",
+      "/api/character/166",
+      "/api/character/167",
+      "/api/character/170",
+      "/api/character/171",
+      "/api/character/172",
+      "/api/character/180",
+      "/api/character/181",
+      "/api/character/182",
+      "/api/character/185",
+      "/api/character/189",
+      "/api/character/190",
+      "/api/character/210",
+      "/api/character/217",
+      "/api/character/218",
+      "/api/character/219",
+      "/api/character/227",
+      "/api/character/230",
+      "/api/character/233",
+      "/api/character/234",
+      "/api/character/236",
+      "/api/character/237",
+      "/api/character/240",
+      "/api/character/241",
+      "/api/character/243",
+      "/api/character/244",
+      "/api/character/245",
+      "/api/character/248",
+      "/api/character/251",
+      "/api/character/255",
+      "/api/character/259",
+      "/api/character/262",
+      "/api/character/265",
+      "/api/character/272",
+      "/api/character/276",
+      "/api/character/280",
+      "/api/character/292",
+      "/api/character/293",
+      "/api/character/324",
+      "/api/character/326",
+      "/api/character/327",
+      "/api/character/332",
+      "/api/character/335",
+      "/api/character/341",
+      "/api/character/346",
+      "/api/character/347",
+      "/api/character/352",
+      "/api/character/353",
+      "/api/character/354",
+      "/api/character/357",
+      "/api/character/360",
+      "/api/character/361",
+      "/api/character/363",
+      "/api/character/365",
+      "/api/character/374",
+      "/api/character/377",
+      "/api/character/390",
+      "/api/character/391",
+      "/api/character/401",
+      "/api/character/402",
+      "/api/character/405",
+      "/api/character/423",
+      "/api/character/435",
+      "/api/character/437",
+      "/api/character/438",
+      "/api/character/439",
+      "/api/character/440",
+      "/api/character/452",
+      "/api/character/453",
+      "/api/character/467",
+      "/api/character/468",
+      "/api/character/469",
+      "/api/character/471",
+      "/api/character/492",
+      "/api/character/493",
+      "/api/character/497",
+      "/api/character/509",
+      "/api/character/510",
+      "/api/character/511",
+      "/api/character/512",
+      "/api/character/513",
+      "/api/character/514",
+      "/api/character/516",
+      "/api/character/517",
+      "/api/character/523",
+      "/api/character/524",
+      "/api/character/526",
+      "/api/character/534",
+      "/api/character/535",
+      "/api/character/536",
+      "/api/character/537",
+      "/api/character/538",
+      "/api/character/539",
+      "/api/character/540",
+      "/api/character/541",
+      "/api/character/561",
+      "/api/character/562",
+      "/api/character/564",
+      "/api/character/570",
+      "/api/character/575",
+      "/api/character/584",
+      "/api/character/585",
+      "/api/character/586",
+      "/api/character/588",
+      "/api/character/590",
+      "/api/character/591",
+      "/api/character/592",
+      "/api/character/667",
+      "/api/character/672",
+      "/api/character/680",
+      "/api/character/684",
+      "/api/character/686",
+      "/api/character/687",
+      "/api/character/688",
+      "/api/character/689",
+      "/api/character/690",
+      "/api/character/691",
+      "/api/character/692",
+      "/api/character/693",
+      "/api/character/694",
+      "/api/character/695",
+      "/api/character/696",
+      "/api/character/697",
+      "/api/character/698",
+      "/api/character/699",
+      "/api/character/700",
+      "/api/character/701",
+      "/api/character/702",
+      "/api/character/703",
+      "/api/character/704",
+      "/api/character/705",
+      "/api/character/706",
+      "/api/character/707",
+      "/api/character/708",
+      "/api/character/710",
+      "/api/character/712",
+      "/api/character/713",
+      "/api/character/714",
+      "/api/character/715",
+      "/api/character/716",
+      "/api/character/717",
+      "/api/character/719",
+      "/api/character/720",
+      "/api/character/721",
+      "/api/character/722",
+      "/api/character/723",
+      "/api/character/724",
+      "/api/character/725",
+      "/api/character/726",
+      "/api/character/727",
+      "/api/character/728",
+      "/api/character/729",
+      "/api/character/730",
+      "/api/character/732",
+      "/api/character/733",
+      "/api/character/734",
+      "/api/character/735",
+      "/api/character/737",
+      "/api/character/738",
+      "/api/character/739",
+      "/api/character/740",
+      "/api/character/741",
+      "/api/character/742",
+      "/api/character/753",
+      "/api/character/754",
+      "/api/character/755",
+      "/api/character/756",
+      "/api/character/757",
+      "/api/character/758",
+      "/api/character/759",
+      "/api/character/760",
+      "/api/character/761",
+      "/api/character/762",
+      "/api/character/763",
+      "/api/character/764",
+      "/api/character/765",
+      "/api/character/766",
+      "/api/character/767",
+      "/api/character/768",
+      "/api/character/769",
+      "/api/character/770",
+      "/api/character/771",
+      "/api/character/772",
+      "/api/character/773",
+      "/api/character/774",
+      "/api/character/775",
+      "/api/character/776",
+      "/api/character/777",
+      "/api/character/778",
+      "/api/character/781",
+      "/api/character/786",
+      "/api/character/788",
+      "/api/character/789",
+      "/api/character/790",
+      "/api/character/791",
+      "/api/character/203",
+      "/api/character/794",
+      "/api/character/800",
+      "/api/character/813",
+      "/api/character/821",
+      "/api/character/826"
+    ],
+    "url": "/api/location/20",
+    "created": "2017-11-18T19:33:01.173Z"
+  },
+  {
+    "id": 21,
+    "name": "Testicle Monster Dimension",
+    "type": "Dimension",
+    "dimension": "Testicle Monster Dimension",
+    "residents": [
+      "/api/character/7",
+      "/api/character/436"
+    ],
+    "url": "/api/location/21",
+    "created": "2017-11-18T19:41:01.605Z"
+  },
+  {
+    "id": 22,
+    "name": "Signus 5 Expanse",
+    "type": "unknown",
+    "dimension": "Cromulon Dimension",
+    "residents": [
+      "/api/character/24",
+      "/api/character/309"
+    ],
+    "url": "/api/location/22",
+    "created": "2017-11-18T20:27:26.218Z"
+  },
+  {
+    "id": 23,
+    "name": "Earth (C-500A)",
+    "type": "Planet",
+    "dimension": "Dimension C-500A",
+    "residents": [
+      "/api/character/37",
+      "/api/character/91",
+      "/api/character/176",
+      "/api/character/183",
+      "/api/character/195"
+    ],
+    "url": "/api/location/23",
+    "created": "2017-11-18T20:58:15.178Z"
+  },
+  {
+    "id": 24,
+    "name": "Rick's Battery Microverse",
+    "type": "Microverse",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/65",
+      "/api/character/388"
+    ],
+    "url": "/api/location/24",
+    "created": "2017-11-30T11:02:41.722Z"
+  },
+  {
+    "id": 25,
+    "name": "The Menagerie",
+    "type": "Menagerie",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/67",
+      "/api/character/490",
+      "/api/character/491"
+    ],
+    "url": "/api/location/25",
+    "created": "2017-11-30T11:13:46.697Z"
+  },
+  {
+    "id": 26,
+    "name": "Earth (K-83)",
+    "type": "Planet",
+    "dimension": "Dimension K-83",
+    "residents": [],
+    "url": "/api/location/26",
+    "created": "2017-11-30T11:41:11.452Z"
+  },
+  {
+    "id": 27,
+    "name": "Hideout Planet",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/79",
+      "/api/character/84"
+    ],
+    "url": "/api/location/27",
+    "created": "2017-11-30T14:18:16.869Z"
+  },
+  {
+    "id": 28,
+    "name": "Unity's Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/90",
+      "/api/character/188",
+      "/api/character/301",
+      "/api/character/336",
+      "/api/character/355",
+      "/api/character/372"
+    ],
+    "url": "/api/location/28",
+    "created": "2017-11-30T14:28:54.591Z"
+  },
+  {
+    "id": 29,
+    "name": "Dorian 5",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/93",
+      "/api/character/104",
+      "/api/character/198"
+    ],
+    "url": "/api/location/29",
+    "created": "2017-12-01T11:36:16.463Z"
+  },
+  {
+    "id": 30,
+    "name": "Earth (Unknown dimension)",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/822",
+      "/api/character/823",
+      "/api/character/824",
+      "/api/character/825"
+    ],
+    "url": "/api/location/30",
+    "created": "2017-12-01T11:49:43.923Z"
+  },
+  {
+    "id": 31,
+    "name": "Earth (J19ζ7)",
+    "type": "Planet",
+    "dimension": "Dimension J19ζ7",
+    "residents": [],
+    "url": "/api/location/31",
+    "created": "2017-12-01T12:29:27.976Z"
+  },
+  {
+    "id": 32,
+    "name": "Roy: A Life Well Lived",
+    "type": "Game",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/106",
+      "/api/character/393",
+      "/api/character/449",
+      "/api/character/450",
+      "/api/character/451"
+    ],
+    "url": "/api/location/32",
+    "created": "2017-12-26T12:46:48.798Z"
+  },
+  {
+    "id": 33,
+    "name": "Eric Stoltz Mask Earth",
+    "type": "Planet",
+    "dimension": "Eric Stoltz Mask Dimension",
+    "residents": [],
+    "url": "/api/location/33",
+    "created": "2017-12-26T13:43:29.291Z"
+  },
+  {
+    "id": 34,
+    "name": "Earth (Evil Rick's Target Dimension)",
+    "type": "Planet",
+    "dimension": "Evil Rick's Target Dimension",
+    "residents": [
+      "/api/character/39",
+      "/api/character/177",
+      "/api/character/232",
+      "/api/character/290",
+      "/api/character/339"
+    ],
+    "url": "/api/location/34",
+    "created": "2017-12-26T15:35:20.499Z"
+  },
+  {
+    "id": 35,
+    "name": "Planet Squanch",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/47",
+      "/api/character/75",
+      "/api/character/102",
+      "/api/character/194",
+      "/api/character/199",
+      "/api/character/256",
+      "/api/character/261",
+      "/api/character/308",
+      "/api/character/311",
+      "/api/character/331",
+      "/api/character/379"
+    ],
+    "url": "/api/location/35",
+    "created": "2017-12-26T17:51:53.018Z"
+  },
+  {
+    "id": 36,
+    "name": "Glaagablaaga",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [],
+    "url": "/api/location/36",
+    "created": "2017-12-26T20:30:45.939Z"
+  },
+  {
+    "id": 37,
+    "name": "Resort Planet",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/142",
+      "/api/character/296",
+      "/api/character/297",
+      "/api/character/319",
+      "/api/character/369"
+    ],
+    "url": "/api/location/37",
+    "created": "2017-12-27T20:02:59.005Z"
+  },
+  {
+    "id": 38,
+    "name": "Interdimensional Customs",
+    "type": "Customs",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/144",
+      "/api/character/158"
+    ],
+    "url": "/api/location/38",
+    "created": "2017-12-29T10:37:48.281Z"
+  },
+  {
+    "id": 39,
+    "name": "Galactic Federation Prison",
+    "type": "Space station",
+    "dimension": "unknown",
+    "residents": ["/api/character/150"],
+    "url": "/api/location/39",
+    "created": "2017-12-29T12:02:33.513Z"
+  },
+  {
+    "id": 40,
+    "name": "Gazorpazorp",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/168",
+      "/api/character/211",
+      "/api/character/376"
+    ],
+    "url": "/api/location/40",
+    "created": "2017-12-29T12:31:50.313Z"
+  },
+  {
+    "id": 41,
+    "name": "Hamster in Butt World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["/api/character/153"],
+    "url": "/api/location/41",
+    "created": "2017-12-29T15:27:54.209Z"
+  },
+  {
+    "id": 42,
+    "name": "Earth (Giant Telepathic Spiders Dimension)",
+    "type": "Planet",
+    "dimension": "Giant Telepathic Spiders Dimension",
+    "residents": [
+      "/api/character/159",
+      "/api/character/160"
+    ],
+    "url": "/api/location/42",
+    "created": "2017-12-29T16:03:28.720Z"
+  },
+  {
+    "id": 43,
+    "name": "Alphabetrium",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/161",
+      "/api/character/162",
+      "/api/character/212",
+      "/api/character/213",
+      "/api/character/253"
+    ],
+    "url": "/api/location/43",
+    "created": "2017-12-29T16:08:47.694Z"
+  },
+  {
+    "id": 44,
+    "name": "Jerryboree",
+    "type": "Daycare",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/174",
+      "/api/character/257",
+      "/api/character/441",
+      "/api/character/442",
+      "/api/character/443",
+      "/api/character/444",
+      "/api/character/445",
+      "/api/character/446"
+    ],
+    "url": "/api/location/44",
+    "created": "2017-12-29T17:50:19.947Z"
+  },
+  {
+    "id": 45,
+    "name": "Krootabulon",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/45",
+    "created": "2017-12-29T19:26:06.827Z"
+  },
+  {
+    "id": 46,
+    "name": "Zigerion's Base",
+    "type": "Space station",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "/api/character/87",
+      "/api/character/191",
+      "/api/character/270",
+      "/api/character/337"
+    ],
+    "url": "/api/location/46",
+    "created": "2017-12-29T19:40:07.748Z"
+  },
+  {
+    "id": 47,
+    "name": "Pluto",
+    "type": "Dwarf planet (Celestial Dwarf)",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/192",
+      "/api/character/307",
+      "/api/character/419",
+      "/api/character/420",
+      "/api/character/421",
+      "/api/character/422"
+    ],
+    "url": "/api/location/47",
+    "created": "2017-12-29T19:49:29.228Z"
+  },
+  {
+    "id": 48,
+    "name": "Fantasy World",
+    "type": "Planet",
+    "dimension": "Fantasy Dimension",
+    "residents": [
+      "/api/character/41",
+      "/api/character/193",
+      "/api/character/238",
+      "/api/character/333"
+    ],
+    "url": "/api/location/48",
+    "created": "2017-12-29T19:55:54.672Z"
+  },
+  {
+    "id": 49,
+    "name": "Zeep Xanflorp's Miniverse",
+    "type": "Miniverse",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/348"],
+    "url": "/api/location/49",
+    "created": "2017-12-29T19:58:44.675Z"
+  },
+  {
+    "id": 50,
+    "name": "Kyle's Teenyverse",
+    "type": "Teenyverse",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/197",
+      "/api/character/364"
+    ],
+    "url": "/api/location/50",
+    "created": "2017-12-30T12:36:19.730Z"
+  },
+  {
+    "id": 51,
+    "name": "Larva Alien's Planet",
+    "type": "Planet",
+    "dimension": "Unknown dimension",
+    "residents": [],
+    "url": "/api/location/51",
+    "created": "2017-12-30T12:48:19.312Z"
+  },
+  {
+    "id": 52,
+    "name": "Earth (K-22)",
+    "type": "Planet",
+    "dimension": "Dimension K-22",
+    "residents": [],
+    "url": "/api/location/52",
+    "created": "2017-12-30T16:33:49.507Z"
+  },
+  {
+    "id": 53,
+    "name": "Mr. Meeseeks Box",
+    "type": "Box",
+    "dimension": "unknown",
+    "residents": [],
+    "url": "/api/location/53",
+    "created": "2017-12-30T17:52:12.217Z"
+  },
+  {
+    "id": 54,
+    "name": "Vindicator's Base",
+    "type": "Spacecraft",
+    "dimension": "unknown",
+    "residents": ["/api/character/252"],
+    "url": "/api/location/54",
+    "created": "2017-12-31T12:57:37.824Z"
+  },
+  {
+    "id": 55,
+    "name": "Pawn Shop Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/258"],
+    "url": "/api/location/55",
+    "created": "2017-12-31T13:30:33.579Z"
+  },
+  {
+    "id": 56,
+    "name": "Mega Gargantuan Kingdom",
+    "type": "Microverse",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/269"],
+    "url": "/api/location/56",
+    "created": "2017-12-31T14:01:44.921Z"
+  },
+  {
+    "id": 57,
+    "name": "Gear World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [
+      "/api/character/282",
+      "/api/character/447",
+      "/api/character/448"
+    ],
+    "url": "/api/location/57",
+    "created": "2017-12-31T19:21:17.276Z"
+  },
+  {
+    "id": 58,
+    "name": "Earth (D-99)",
+    "type": "Planet",
+    "dimension": "Dimension D-99",
+    "residents": [],
+    "url": "/api/location/58",
+    "created": "2017-12-31T19:49:55.109Z"
+  },
+  {
+    "id": 59,
+    "name": "Earth (D716)",
+    "type": "Planet",
+    "dimension": "Dimension D716",
+    "residents": [],
+    "url": "/api/location/59",
+    "created": "2017-12-31T19:51:33.170Z"
+  },
+  {
+    "id": 60,
+    "name": "Earth (D716-B)",
+    "type": "Planet",
+    "dimension": "Dimension D716-B",
+    "residents": [],
+    "url": "/api/location/60",
+    "created": "2017-12-31T19:55:25.026Z"
+  },
+  {
+    "id": 61,
+    "name": "Earth (D716-C)",
+    "type": "Planet",
+    "dimension": "Dimension D716-C",
+    "residents": [],
+    "url": "/api/location/61",
+    "created": "2017-12-31T19:57:36.468Z"
+  },
+  {
+    "id": 62,
+    "name": "Earth (J-22)",
+    "type": "Planet",
+    "dimension": "Dimension J-22",
+    "residents": [],
+    "url": "/api/location/62",
+    "created": "2017-12-31T20:16:52.263Z"
+  },
+  {
+    "id": 63,
+    "name": "Froopyland",
+    "type": "Artificially generated world",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/350"],
+    "url": "/api/location/63",
+    "created": "2018-01-10T17:55:14.227Z"
+  },
+  {
+    "id": 64,
+    "name": "Detoxifier",
+    "type": "Machine",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/64",
+    "created": "2018-01-10T18:20:41.627Z"
+  },
+  {
+    "id": 65,
+    "name": "Trunk World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [],
+    "url": "/api/location/65",
+    "created": "2018-01-10T19:03:13.484Z"
+  },
+  {
+    "id": 66,
+    "name": "Plopstar",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["/api/character/371"],
+    "url": "/api/location/66",
+    "created": "2018-01-10T19:56:57.717Z"
+  },
+  {
+    "id": 67,
+    "name": "Blips and Chitz",
+    "type": "Arcade",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/67",
+    "created": "2018-01-21T19:01:19.496Z"
+  },
+  {
+    "id": 68,
+    "name": "Girvonesk",
+    "type": "unknown",
+    "dimension": "unknown",
+    "residents": [],
+    "url": "/api/location/68",
+    "created": "2018-04-15T16:39:38.598Z"
+  },
+  {
+    "id": 69,
+    "name": "Earth (C-35)",
+    "type": "Planet",
+    "dimension": "Dimension C-35",
+    "residents": [],
+    "url": "/api/location/69",
+    "created": "2018-04-15T16:55:56.212Z"
+  },
+  {
+    "id": 70,
+    "name": "Snuffles' Dream",
+    "type": "Dream",
+    "dimension": "Dimension C-137",
+    "residents": [
+      "/api/character/397",
+      "/api/character/398"
+    ],
+    "url": "/api/location/70",
+    "created": "2018-04-15T17:13:54.071Z"
+  },
+  {
+    "id": 71,
+    "name": "Earth (Pizza Dimension)",
+    "type": "Planet",
+    "dimension": "Pizza Dimension",
+    "residents": [
+      "/api/character/424",
+      "/api/character/425"
+    ],
+    "url": "/api/location/71",
+    "created": "2018-04-15T17:55:04.478Z"
+  },
+  {
+    "id": 72,
+    "name": "Earth (Phone Dimension)",
+    "type": "Planet",
+    "dimension": "Phone Dimension",
+    "residents": [
+      "/api/character/404",
+      "/api/character/427",
+      "/api/character/428"
+    ],
+    "url": "/api/location/72",
+    "created": "2018-04-15T17:56:09.117Z"
+  },
+  {
+    "id": 73,
+    "name": "Greasy Grandma World",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": ["/api/character/426"],
+    "url": "/api/location/73",
+    "created": "2018-04-16T21:50:20.144Z"
+  },
+  {
+    "id": 74,
+    "name": "Earth (Chair Dimension)",
+    "type": "Planet",
+    "dimension": "Chair Dimension",
+    "residents": [
+      "/api/character/429",
+      "/api/character/430",
+      "/api/character/431",
+      "/api/character/432"
+    ],
+    "url": "/api/location/74",
+    "created": "2018-04-16T21:58:24.292Z"
+  },
+  {
+    "id": 75,
+    "name": "Árboles Mentirosos",
+    "type": "Planet",
+    "dimension": "unknown",
+    "residents": [],
+    "url": "/api/location/75",
+    "created": "2018-05-01T15:27:20.251Z"
+  },
+  {
+    "id": 76,
+    "name": "Alien Day Spa",
+    "type": "Spa",
+    "dimension": "unknown",
+    "residents": ["/api/character/470"],
+    "url": "/api/location/76",
+    "created": "2018-05-22T20:49:01.820Z"
+  },
+  {
+    "id": 77,
+    "name": "Earth (Fascist Dimension)",
+    "type": "Planet",
+    "dimension": "Fascist Dimension",
+    "residents": [
+      "/api/character/242",
+      "/api/character/498",
+      "/api/character/499",
+      "/api/character/500",
+      "/api/character/501",
+      "/api/character/502"
+    ],
+    "url": "/api/location/77",
+    "created": "2020-05-02T09:39:49.158Z"
+  },
+  {
+    "id": 78,
+    "name": "Snake Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/313",
+      "/api/character/571",
+      "/api/character/572",
+      "/api/character/573",
+      "/api/character/574",
+      "/api/character/576",
+      "/api/character/577",
+      "/api/character/578",
+      "/api/character/579",
+      "/api/character/580",
+      "/api/character/581",
+      "/api/character/582",
+      "/api/character/583",
+      "/api/character/587",
+      "/api/character/589"
+    ],
+    "url": "/api/location/78",
+    "created": "2020-05-02T09:47:39.754Z"
+  },
+  {
+    "id": 79,
+    "name": "Forbodulon Prime",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/494",
+      "/api/character/495",
+      "/api/character/496"
+    ],
+    "url": "/api/location/79",
+    "created": "2020-05-02T10:04:05.509Z"
+  },
+  {
+    "id": 80,
+    "name": "Earth (Fascist Shrimp Dimension)",
+    "type": "Planet",
+    "dimension": "Fascist Shrimp Dimension",
+    "residents": [
+      "/api/character/503",
+      "/api/character/504",
+      "/api/character/505",
+      "/api/character/506"
+    ],
+    "url": "/api/location/80",
+    "created": "2020-05-02T11:52:35.156Z"
+  },
+  {
+    "id": 81,
+    "name": "Earth (Fascist Teddy Bear Dimension)",
+    "type": "Planet",
+    "dimension": "Fascist Teddy Bear Dimension",
+    "residents": [
+      "/api/character/507",
+      "/api/character/508"
+    ],
+    "url": "/api/location/81",
+    "created": "2020-05-02T12:16:18.224Z"
+  },
+  {
+    "id": 82,
+    "name": "Earth (Wasp Dimension)",
+    "type": "Planet",
+    "dimension": "Wasp Dimension",
+    "residents": [
+      "/api/character/515",
+      "/api/character/518",
+      "/api/character/519",
+      "/api/character/520",
+      "/api/character/521",
+      "/api/character/522"
+    ],
+    "url": "/api/location/82",
+    "created": "2020-05-02T12:34:19.656Z"
+  },
+  {
+    "id": 83,
+    "name": "Monogatron Mothership",
+    "type": "Space station",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/525",
+      "/api/character/527",
+      "/api/character/528",
+      "/api/character/533"
+    ],
+    "url": "/api/location/83",
+    "created": "2020-05-02T13:10:42.299Z"
+  },
+  {
+    "id": 84,
+    "name": "Gorgon Quadrant",
+    "type": "Quadrant",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/543"],
+    "url": "/api/location/84",
+    "created": "2020-05-02T13:21:49.663Z"
+  },
+  {
+    "id": 85,
+    "name": "Midland Quasar",
+    "type": "Quasar",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/529",
+      "/api/character/530"
+    ],
+    "url": "/api/location/85",
+    "created": "2020-05-02T13:30:41.732Z"
+  },
+  {
+    "id": 86,
+    "name": "Mount Space Everest",
+    "type": "Mount",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/531"],
+    "url": "/api/location/86",
+    "created": "2020-05-02T13:34:45.332Z"
+  },
+  {
+    "id": 87,
+    "name": "Globaflyn",
+    "type": "Liquid",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/532",
+      "/api/character/542"
+    ],
+    "url": "/api/location/87",
+    "created": "2020-05-02T13:44:54.688Z"
+  },
+  {
+    "id": 88,
+    "name": "Heist-Con",
+    "type": "Convention",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/544",
+      "/api/character/545",
+      "/api/character/546",
+      "/api/character/547",
+      "/api/character/548",
+      "/api/character/549",
+      "/api/character/550",
+      "/api/character/551",
+      "/api/character/552",
+      "/api/character/553"
+    ],
+    "url": "/api/location/88",
+    "created": "2020-05-07T09:07:41.816Z"
+  },
+  {
+    "id": 89,
+    "name": "Heistotron Base",
+    "type": "Space station",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/554",
+      "/api/character/555",
+      "/api/character/556",
+      "/api/character/557",
+      "/api/character/558"
+    ],
+    "url": "/api/location/89",
+    "created": "2020-05-07T10:11:40.632Z"
+  },
+  {
+    "id": 90,
+    "name": "Mount Olympus",
+    "type": "Mount",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/90",
+    "created": "2020-05-07T10:19:34.206Z"
+  },
+  {
+    "id": 91,
+    "name": "Plitzville Montana",
+    "type": "Woods",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/91",
+    "created": "2020-05-07T10:23:07.595Z"
+  },
+  {
+    "id": 92,
+    "name": "Earth (Tusk Dimension)",
+    "type": "Planet",
+    "dimension": "Tusk Dimension",
+    "residents": [],
+    "url": "/api/location/92",
+    "created": "2020-05-07T10:25:11.950Z"
+  },
+  {
+    "id": 93,
+    "name": "Gramuflack",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/559",
+      "/api/character/560"
+    ],
+    "url": "/api/location/93",
+    "created": "2020-05-07T10:26:35.591Z"
+  },
+  {
+    "id": 94,
+    "name": "Draygon",
+    "type": "Planet",
+    "dimension": "Magic Dimension",
+    "residents": [
+      "/api/character/563",
+      "/api/character/565",
+      "/api/character/566",
+      "/api/character/567",
+      "/api/character/568",
+      "/api/character/569"
+    ],
+    "url": "/api/location/94",
+    "created": "2020-05-07T11:30:49.963Z"
+  },
+  {
+    "id": 95,
+    "name": "New Improved Galactic Federation Quarters",
+    "type": "Space station",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/95",
+    "created": "2020-08-05T12:42:58.048Z"
+  },
+  {
+    "id": 96,
+    "name": "Story Train",
+    "type": "Diegesis",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/597",
+      "/api/character/598",
+      "/api/character/599",
+      "/api/character/600",
+      "/api/character/601",
+      "/api/character/606",
+      "/api/character/607",
+      "/api/character/611",
+      "/api/character/612",
+      "/api/character/615",
+      "/api/character/616",
+      "/api/character/617",
+      "/api/character/618",
+      "/api/character/619",
+      "/api/character/620",
+      "/api/character/622",
+      "/api/character/623",
+      "/api/character/624",
+      "/api/character/626",
+      "/api/character/627",
+      "/api/character/630",
+      "/api/character/631",
+      "/api/character/632",
+      "/api/character/633",
+      "/api/character/634",
+      "/api/character/637",
+      "/api/character/638"
+    ],
+    "url": "/api/location/96",
+    "created": "2020-08-06T09:47:28.216Z"
+  },
+  {
+    "id": 97,
+    "name": "Non-Diegetic Alternative Reality",
+    "type": "Non-Diegetic Alternative Reality",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/593"],
+    "url": "/api/location/97",
+    "created": "2020-08-06T09:50:13.771Z"
+  },
+  {
+    "id": 98,
+    "name": "Tickets Please Guy Nightmare",
+    "type": "Nightmare",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/594",
+      "/api/character/595",
+      "/api/character/596",
+      "/api/character/605",
+      "/api/character/609",
+      "/api/character/610",
+      "/api/character/639"
+    ],
+    "url": "/api/location/98",
+    "created": "2020-08-06T09:52:43.580Z"
+  },
+  {
+    "id": 99,
+    "name": "Morty’s Story",
+    "type": "Diegesis",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/602",
+      "/api/character/604",
+      "/api/character/613",
+      "/api/character/628",
+      "/api/character/629",
+      "/api/character/621"
+    ],
+    "url": "/api/location/99",
+    "created": "2020-08-06T11:42:46.054Z"
+  },
+  {
+    "id": 100,
+    "name": "Ricks’s Story",
+    "type": "Diegesis",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/603",
+      "/api/character/614",
+      "/api/character/625",
+      "/api/character/635",
+      "/api/character/636",
+      "/api/character/608"
+    ],
+    "url": "/api/location/100",
+    "created": "2020-08-06T11:45:08.782Z"
+  },
+  {
+    "id": 101,
+    "name": "Glorzo Asteroid",
+    "type": "Asteroid",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/640",
+      "/api/character/641",
+      "/api/character/642",
+      "/api/character/643",
+      "/api/character/644",
+      "/api/character/645",
+      "/api/character/646",
+      "/api/character/647"
+    ],
+    "url": "/api/location/101",
+    "created": "2020-08-07T11:28:46.897Z"
+  },
+  {
+    "id": 102,
+    "name": "Alien Acid Plant",
+    "type": "Acid Plant",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/648",
+      "/api/character/649",
+      "/api/character/650",
+      "/api/character/651"
+    ],
+    "url": "/api/location/102",
+    "created": "2020-08-13T10:08:12.986Z"
+  },
+  {
+    "id": 103,
+    "name": "Merged Universe",
+    "type": "Dimension",
+    "dimension": "Merged Dimension",
+    "residents": [
+      "/api/character/652",
+      "/api/character/656",
+      "/api/character/657",
+      "/api/character/658",
+      "/api/character/661",
+      "/api/character/655"
+    ],
+    "url": "/api/location/103",
+    "created": "2020-08-13T10:16:18.946Z"
+  },
+  {
+    "id": 104,
+    "name": "Near-Duplicate Reality",
+    "type": "Reality",
+    "dimension": "Unknown dimension",
+    "residents": [
+      "/api/character/653",
+      "/api/character/654",
+      "/api/character/659",
+      "/api/character/660"
+    ],
+    "url": "/api/location/104",
+    "created": "2020-08-13T11:15:54.414Z"
+  },
+  {
+    "id": 105,
+    "name": "NX-5 Planet Remover",
+    "type": "Death Star",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/344",
+      "/api/character/670",
+      "/api/character/671"
+    ],
+    "url": "/api/location/105",
+    "created": "2020-08-13T11:35:53.644Z"
+  },
+  {
+    "id": 106,
+    "name": "Gaia",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/662",
+      "/api/character/663",
+      "/api/character/664",
+      "/api/character/665",
+      "/api/character/666"
+    ],
+    "url": "/api/location/106",
+    "created": "2020-08-13T12:00:29.825Z"
+  },
+  {
+    "id": 107,
+    "name": "Defiance's Ship",
+    "type": "Spacecraft",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/668"],
+    "url": "/api/location/107",
+    "created": "2020-08-13T13:05:33.161Z"
+  },
+  {
+    "id": 108,
+    "name": "Defiance's Base",
+    "type": "Base",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/669"],
+    "url": "/api/location/108",
+    "created": "2020-08-13T13:07:01.192Z"
+  },
+  {
+    "id": 109,
+    "name": "The Ocean",
+    "type": "Liquid",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/109",
+    "created": "2021-10-16T11:53:50.571Z"
+  },
+  {
+    "id": 110,
+    "name": "Narnia Dimension",
+    "type": "Dimension",
+    "dimension": "Fantasy Dimension",
+    "residents": [
+      "/api/character/673",
+      "/api/character/674",
+      "/api/character/675",
+      "/api/character/676",
+      "/api/character/677",
+      "/api/character/678",
+      "/api/character/679",
+      "/api/character/681",
+      "/api/character/682",
+      "/api/character/683",
+      "/api/character/685"
+    ],
+    "url": "/api/location/110",
+    "created": "2021-10-16T11:59:26.649Z"
+  },
+  {
+    "id": 111,
+    "name": "Elemental Rings",
+    "type": "Elemental Rings",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/111",
+    "created": "2021-10-17T09:49:31.948Z"
+  },
+  {
+    "id": 112,
+    "name": "Morglutz",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/799"],
+    "url": "/api/location/112",
+    "created": "2021-10-17T09:51:34.413Z"
+  },
+  {
+    "id": 113,
+    "name": "Ferkus 9",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/718",
+      "/api/character/798"
+    ],
+    "url": "/api/location/113",
+    "created": "2021-10-17T09:52:23.219Z"
+  },
+  {
+    "id": 114,
+    "name": "Morty",
+    "type": "Human",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/114",
+    "created": "2021-10-17T10:08:24.040Z"
+  },
+  {
+    "id": 115,
+    "name": "Space",
+    "type": "Space",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/731",
+      "/api/character/736"
+    ],
+    "url": "/api/location/115",
+    "created": "2021-10-17T11:55:43.920Z"
+  },
+  {
+    "id": 116,
+    "name": "Hell",
+    "type": "Hell",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/744",
+      "/api/character/745",
+      "/api/character/746",
+      "/api/character/747",
+      "/api/character/748",
+      "/api/character/749",
+      "/api/character/750"
+    ],
+    "url": "/api/location/116",
+    "created": "2021-10-17T12:31:59.067Z"
+  },
+  {
+    "id": 117,
+    "name": "Z. Q. P. D.",
+    "type": "Police Department",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/743"],
+    "url": "/api/location/117",
+    "created": "2021-10-17T13:45:50.845Z"
+  },
+  {
+    "id": 118,
+    "name": "Space Tahoe",
+    "type": "",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/751",
+      "/api/character/752"
+    ],
+    "url": "/api/location/118",
+    "created": "2021-10-17T14:03:13.221Z"
+  },
+  {
+    "id": 119,
+    "name": "France",
+    "type": "Country",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/119",
+    "created": "2021-10-17T14:59:13.494Z"
+  },
+  {
+    "id": 120,
+    "name": "Birdperson's Consciousness",
+    "type": "Consciousness",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/780",
+      "/api/character/782",
+      "/api/character/783",
+      "/api/character/784",
+      "/api/character/785"
+    ],
+    "url": "/api/location/120",
+    "created": "2021-10-25T09:06:22.109Z"
+  },
+  {
+    "id": 121,
+    "name": "Rick's Consciousness",
+    "type": "Consciousness",
+    "dimension": "Replacement Dimension",
+    "residents": [],
+    "url": "/api/location/121",
+    "created": "2021-10-25T09:12:23.715Z"
+  },
+  {
+    "id": 122,
+    "name": "Avian Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/792",
+      "/api/character/793"
+    ],
+    "url": "/api/location/122",
+    "created": "2021-10-26T12:19:52.957Z"
+  },
+  {
+    "id": 123,
+    "name": "Normal Size Bug Dimension",
+    "type": "Dimension",
+    "dimension": "",
+    "residents": [
+      "/api/character/795",
+      "/api/character/796"
+    ],
+    "url": "/api/location/123",
+    "created": "2021-11-02T13:03:21.307Z"
+  },
+  {
+    "id": 124,
+    "name": "Slartivart",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": ["/api/character/797"],
+    "url": "/api/location/124",
+    "created": "2021-11-02T13:07:27.619Z"
+  },
+  {
+    "id": 125,
+    "name": "Rick and Two Crows Planet",
+    "type": "Planet",
+    "dimension": "Replacement Dimension",
+    "residents": [
+      "/api/character/809",
+      "/api/character/808",
+      "/api/character/787"
+    ],
+    "url": "/api/location/125",
+    "created": "2021-11-02T13:50:55.588Z"
+  },
+  {
+    "id": 126,
+    "name": "Rick's Memories",
+    "type": "Memory",
+    "dimension": "",
+    "residents": [
+      "/api/character/815",
+      "/api/character/814",
+      "/api/character/807",
+      "/api/character/94",
+      "/api/character/779",
+      "/api/character/816",
+      "/api/character/817",
+      "/api/character/274",
+      "/api/character/389",
+      "/api/character/215",
+      "/api/character/294"
+    ],
+    "url": "/api/location/126",
+    "created": "2021-11-02T15:18:57.987Z"
+  }
+]
