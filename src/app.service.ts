@@ -4,9 +4,9 @@ import { Injectable } from '@nestjs/common';
 export class AppService {
   getEndPoints(): any {
     return {
-      characters: '/api/character',
-      locations: '/api/location',
-      episodes: '/api/episode',
+      characters: '/character',
+      locations: '/location',
+      episodes: '/episode',
     };
   }
 }
