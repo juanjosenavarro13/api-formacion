@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { EpisodeService } from './episode.service';
 import { Controller, Get, Param } from '@nestjs/common';
 

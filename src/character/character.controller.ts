@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { CharacterService } from './character.service';
 import { Controller, Get, Param } from '@nestjs/common';
 
