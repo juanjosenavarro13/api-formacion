@@ -7,12 +7,12 @@ export class CharacterController {
   constructor(private CharacterService: CharacterService) {}
 
   @Get()
-  getCharacters(): any {
-    return this.CharacterService.getCharacters();
+  async getCharacters() {
+    return await this.CharacterService.getCharacters();
   }
 
   @Get('/:id')
-  getCharacter(@Param() params): any {
-    return this.CharacterService.getCharacter(params.id);
+  async getCharacter(@Param() params) {
+    return await this.CharacterService.getCharacter(params.id);
   }
 }
